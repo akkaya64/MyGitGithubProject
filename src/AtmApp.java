@@ -29,14 +29,9 @@ public class AtmApp {
 
 
 
-
-
-
-
-
-
-
-
+        //master branchinda yapilan degisiklikler
+        //Version: V8
+        System.out.println("Master branchinda yeni ozellikler var");
 
 
     }
