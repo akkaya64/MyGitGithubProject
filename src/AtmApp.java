@@ -11,6 +11,9 @@ public class AtmApp {
         //Version: V3
         System.out.println("Learn Java Earn Many");
 
+        //Version: V4
+        System.out.println("Easy to learn Git");
+
 
     }
 }
