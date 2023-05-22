@@ -33,8 +33,11 @@ public class AtmApp {
         //Version: V8
         System.out.println("Master branchinda yeni ozellikler var");
 
+        //Fatih Branchinde
         //Version: VFth3
         System.out.println("Fatih branch i bir adim onde");
+
+        System.out.println("Bazi degisiklikler yapildi ama commit lenmedi");
 
 
     }
