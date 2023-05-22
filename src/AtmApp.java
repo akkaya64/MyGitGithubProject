@@ -33,6 +33,9 @@ public class AtmApp {
         //Version: V8
         System.out.println("Master branchinda yeni ozellikler var");
 
+        //Version: VFth3
+        System.out.println("Fatih branch i bir adim onde");
+
 
     }
 }
