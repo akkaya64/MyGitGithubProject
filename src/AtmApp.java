@@ -24,6 +24,13 @@ public class AtmApp {
         System.out.println("Java is so funny");
 
 
+        //Version: VFth1
+        System.out.println("Bu code lar fatih branch tarafindan yazildi");
+
+
+
+
+
 
 
 
