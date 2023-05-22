@@ -14,6 +14,17 @@ public class AtmApp {
         //Version: V4
         System.out.println("Easy to learn Git");
 
+        //Version: V5
+        System.out.println("Easy to learn Git");
+
+        //Version: V6
+        System.out.println("Java is not funny");
+
+
+
+
+
+
 
     }
 }
