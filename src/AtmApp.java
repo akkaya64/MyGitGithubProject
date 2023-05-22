@@ -37,7 +37,11 @@ public class AtmApp {
         //Version: VFth3
         System.out.println("Fatih branch i bir adim onde");
 
+        //Version: VFth4
         System.out.println("Bazi degisiklikler yapildi ama commit lenmedi");
+
+        //Version: VFth5
+        System.out.println("Yeni degisiklikler");
 
 
     }
