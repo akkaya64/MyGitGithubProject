@@ -18,7 +18,13 @@ public class AtmApp {
         System.out.println("Easy to learn Git");
 
         //Version: V6
-        System.out.println("Java is not funny");
+        // Buradaki code blogu silindi normalde yan taraftaki code lar vardi. System.out.println("Java is not funny");
+
+        //Version: V7
+        System.out.println("Java is so funny");
+
+
+
 
 
 
