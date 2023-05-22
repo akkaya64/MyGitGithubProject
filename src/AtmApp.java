@@ -8,6 +8,9 @@ public class AtmApp {
         //Version: V2
         System.out.println("Java is easy");
 
+        //Version: V3
+        System.out.println("Learn Java Earn Many");
+
 
     }
 }
